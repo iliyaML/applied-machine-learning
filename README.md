@@ -1,6 +1,6 @@
 # applied-machine-learning
 
-Repository for Applied Machine Learning in Python
+Repository for [Applied Machine Learning in Python (Coursera)](https://www.coursera.org/learn/python-machine-learning)
 
 ## Notebooks
 
