@@ -2,6 +2,14 @@
 
 Repository for [Applied Machine Learning in Python (Coursera)](https://www.coursera.org/learn/python-machine-learning)
 
+## Modules
+
+1. Fundamentals of Machine Learning - Intro to scikit-learn
+2. Supervised Machine Learning - Part 1
+3. Evaluation
+4. Supervised Machine Learning - Part 2
+5. Unsupervised Learning
+
 ## Notebooks
 
 - [M1_Introduction_using_KNN.ipynb](https://colab.research.google.com/github/iliyaML/applied-machine-learning/blob/main/M1_Introduction_using_KNN.ipynb)
